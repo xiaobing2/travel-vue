@@ -4,7 +4,7 @@
 例如：https://your-project.pages.esa.aliyun.com
 
 Github 仓库地址（需为公开仓库）：
-例如：https://github.com/your-name/travel-vue-esa
+https://github.com/xiaobing2/travel-vue
 
 作品说明（可直接复制到天池提交结果处使用，可按需微调）：
 
